@@ -45,7 +45,7 @@ yourself by downloading a couple jars. Here's an example of integrating the Azur
 For Windows users Powershell is recommended.
 
 ### Step 1: Download zipkin-server jar
-Download the [latest released server](https://search.maven.org/remote_content?g=io.zipkin.java&a=zipkin-server&v=LATEST&c=exec) as zipkin.jar:
+Download the [latest released server](https://search.maven.org/remote_content?g=io.zipkin&a=zipkin-server&v=LATEST&c=exec) as zipkin.jar:
 
 ```
 cd /tmp
